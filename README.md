@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @Huntysaurus
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning various types of coding languages through flatiron school
-- 💞️ I’m looking to collaborate on ... idk yet. We'll see!
+- 👋 Hi, I’m Jake!
+- 👀 I’m interested in software engineering! Just beginning my journey as a Jr. Dev!
+- 🌱 I’m currently making improvements on a few projects. Feel free to check them out!
+- 💞️ I’m looking to collaborate on
 - 📫 How to reach me ...
+  LinkedIn - https://www.linkedin.com/in/jacob-yaw-428364258/
+  email - jalexjaw@gmail.com
 
 <!---
 Huntysaurus/Huntysaurus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
