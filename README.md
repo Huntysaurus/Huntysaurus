@@ -5,7 +5,6 @@
 - 📫 How to reach me ...
 - LinkedIn - https://www.linkedin.com/in/jacob-yaw-428364258/
 - email - jalexjaw@gmail.com
-- 
 - Stratify - https://stratify-app.onrender.com/ 
 
 <!---
