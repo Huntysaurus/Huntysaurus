@@ -12,7 +12,7 @@ Full Stack Engineer proficient in JavaScript, React and Ruby on Rails! With a ba
 - blog - https://medium.com/@jalexjaw
 ---
 ### Skills
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img style="height:2%, width:2%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
 
 <!---
