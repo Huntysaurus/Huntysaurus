@@ -11,7 +11,7 @@ Full Stack Engineer proficient in JavaScript, React and Ruby on Rails! With a ba
 - email - jalexjaw@gmail.com
 - blog - https://medium.com/@jalexjaw
 ---
-###Skills
+##Skills
 <i class="devicon-javascript-plain colored"></i>
 
 
