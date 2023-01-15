@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Jake! 
+## 👋 Hi, I’m Jake! 
 ---
 Full Stack Engineer proficient in JavaScript, React and Ruby on Rails! With a background in purchasing and logistics, I am adept at system optimization, operational efficiencies, data analysis and relationship building.
 
@@ -11,7 +11,7 @@ Full Stack Engineer proficient in JavaScript, React and Ruby on Rails! With a ba
 - email - jalexjaw@gmail.com
 - blog - https://medium.com/@jalexjaw
 ---
-## Skills
+### Skills
 <i class="devicon-javascript-plain colored"></i>
 
 
