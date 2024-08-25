@@ -4,7 +4,6 @@ Full Stack Engineer proficient in JavaScript, React and Ruby on Rails! I'm curre
 🌱 Feel free to check out my capstone project from Flatiron School 2022. It's an eCommerce web application called Stratify. https://stratify-app.onrender.com/
 
 #### 📫 How to reach me
-- LinkedIn - https://www.linkedin.com/in/jacob-yaw-428364258/
 - email - jalexjaw@gmail.com
 ---
 ### Skills
